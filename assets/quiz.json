@@ -1,0 +1,48 @@
+
+{
+  "questions": [
+    {
+      "answers": [
+        {
+          "is_right": false,
+          "value": "La performance"
+        },
+        {
+          "is_right": true,
+          "value": "La volatilit\u00e9"
+        },
+        {
+          "is_right": false,
+          "value": "Le couple rendement/risque"
+        },
+        {
+          "is_right": false,
+          "value": "La corr\u00e9lation"
+        }
+      ],
+      "question": "Quel est l\u2019instrument de mesure du risque le plus utilis\u00e9 ?"
+    },
+    {
+      "answers": [
+        {
+          "is_right": true,
+          "value": "La volatilit\u00e9 historique"
+        },
+        {
+          "is_right": false,
+          "value": "La volatilit\u00e9 optionnelle"
+        },
+        {
+          "is_right": false,
+          "value": "La volatilit\u00e9 financi\u00e8re"
+        },
+        {
+          "is_right": true,
+          "value": "La volatilit\u00e9 implicite"
+        }
+      ],
+      "question": "Nous avons parl\u00e9 de deux types de volatilit\u00e9. Quelles sont-elles ?"
+    }
+  ],
+  "title": "Comment investir dans des march\u00e9s volatils"
+}
