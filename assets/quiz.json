@@ -1,48 +1,39 @@
-
 {
+  "title": "How to win a quiz.",
   "questions": [
     {
+      "question": "Where is the first question?",
       "answers": [
         {
-          "is_right": false,
-          "value": "La performance"
-        },
-        {
           "is_right": true,
-          "value": "La volatilit\u00e9"
+          "value": "Just here."
         },
         {
           "is_right": false,
-          "value": "Le couple rendement/risque"
-        },
-        {
-          "is_right": false,
-          "value": "La corr\u00e9lation"
+          "value": "After this one."
         }
-      ],
-      "question": "Quel est l\u2019instrument de mesure du risque le plus utilis\u00e9 ?"
+      ]
     },
     {
+      "question": "For this question you need to tick the second and the third answers, ok?",
       "answers": [
         {
-          "is_right": true,
-          "value": "La volatilit\u00e9 historique"
-        },
-        {
           "is_right": false,
-          "value": "La volatilit\u00e9 optionnelle"
-        },
-        {
-          "is_right": false,
-          "value": "La volatilit\u00e9 financi\u00e8re"
+          "value": "Not this one."
         },
         {
           "is_right": true,
-          "value": "La volatilit\u00e9 implicite"
+          "value": "This one."
+        },
+        {
+          "is_right": true,
+          "value": "This one too."
+        },
+        {
+          "is_right": false,
+          "value": "No."
         }
-      ],
-      "question": "Nous avons parl\u00e9 de deux types de volatilit\u00e9. Quelles sont-elles ?"
+      ]
     }
-  ],
-  "title": "Comment investir dans des march\u00e9s volatils"
+  ]
 }
